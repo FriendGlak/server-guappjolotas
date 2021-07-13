@@ -1,6 +1,9 @@
 {
   "name": "stripe-sample",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.17.3"
+    },
   "dependencies": {
     "@stripe/react-stripe-js": "^1.0.0",
     "@stripe/stripe-js": "^1.0.0",
